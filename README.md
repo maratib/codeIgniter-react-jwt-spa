@@ -281,6 +281,8 @@ public $aliases = [
 
 By now if you visit `http://localhost:8080/client` you will be asked for JWT valid token
 
+## BaseController.php
+
 Now open `App/Controllers/BaseController.php` and add the following methods
 
 ```php
