@@ -2,6 +2,18 @@
 
 ## CodeIgniter 4 Application Starter
 
+Easy Setup
+
+```bash
+Clone this repo
+composer install
+yarn
+
+# To run client and server
+php spark serve
+yarn start
+```
+
 Steps to reproduce:-
 
 ```bash
